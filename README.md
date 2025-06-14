@@ -26,3 +26,15 @@ NovaMed Solutions is a leading pharmaceutical distributor in the healthcare sect
  ![D1](https://github.com/user-attachments/assets/bee1ea15-e240-4c2e-9f8d-28bbb74193eb)
  ![D2](https://github.com/user-attachments/assets/9ce206d6-3878-4eaa-a567-74e2793bee98)
 
+## Project Insight
+- Total revenue and total profit have shown a positive correlation over time.
+- Revenue peaked at £6.8m in January, representing 9.59% of total revenue.
+- Conversely, February recorded a trailing figure of £5m, representing 7% of total revenue.
+- Total Revenue and Total Profit diverged the most with Clonazepam, with Total Revenue being £618k higher than Total Profit.
+- Top 5 drugs, Total Revenue ranged from £3m to £3.5m and Total Profit from £2.5m to £3.4m.
+- 55+ accounted for the highest revenue at £30.7m, representing 42.99%, followed by age range 18-35,36-45, and 46-55, respectively.
+- On a monthly basis and the whole year in review,  Canada had the highest Total Revenue, followed by Australia, having £32m and £15m, respectively. The remaining 4 countries on monthly basis have variations in their positions among the last 4.
+- Total Revenue ranged from £5.6m to £31.7m across the 6 countries.
+
+
+
