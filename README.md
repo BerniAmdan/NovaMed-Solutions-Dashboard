@@ -6,7 +6,7 @@ NovaMed Solutions is a leading pharmaceutical distributor in the healthcare sect
 - Identify key market opportunities.
 
 ## Dataset used
-- <a href="https://github.com/BerniAmdan/NovaMed-Solutions-Dashboard/blob/main/Dataset.csv">Dataset<a/>
+- <a href="https://github.com/BerniAmdan/NovaMed-Solutions-Dashboard/blob/main/Dataset.xlsx">Dataset<a/>
 
 ## Issues addressed
 - Implementing a month-over-month comparison for KPIs.
