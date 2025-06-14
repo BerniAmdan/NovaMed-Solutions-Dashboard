@@ -36,5 +36,22 @@ NovaMed Solutions is a leading pharmaceutical distributor in the healthcare sect
 - On a monthly basis and the whole year in review,  Canada had the highest Total Revenue, followed by Australia, having £32m and £15m, respectively. The remaining 4 countries on monthly basis have variations in their positions among the last 4.
 - Total Revenue ranged from £5.6m to £31.7m across the 6 countries.
 
+## Business Issues
+Overall, NovaMed Solutions has shown promising performance; however, this has been influenced largely by huge margins on prices of drugs and performance depending on only 2 out of 6 countries it operates and this performance can be curtailed in the long run should there be anything negatively impacting these 2 countries.
+As NovaMed Solution is looking to optimize sales performance, efficiently manage inventory, key marketing opportunities can be identified in these not fully tapped countries.
+In addressing the above challenges, attention must be paid to:
+- Demand forecasting efficiency: By way of cross-functional collaboration, where regular forecast review meetings can be held with inputs from all departments and involving customer-facing teams for real-time market feedback. Also, forecasts must be aligned with the broad company strategic goals, by ensuring sales incentives and supply
+ chain KPI’s don’t conflict.
+- Stock management: Conducting regular stock audits for early detection of issues like expired stock, and using cycle counting (i.e., counting a few items at short intervals). Improving supplier relationships by way of regular communication to confirm lead times, proactively handling stock delays, and sharing forecast information for Just-In-Time.
+- Customer engagement strategies: Adopting two-way communication by encouraging feedback through surveys, polls, and reviews. Also, prompt and empathetic responds must be given to customer queries and comments. 
 
+## Recommendations
+- Focus Marketing on 55+ Age Range: As a 43% contributor to total revenue, product offerings can be tailored to common health concerns for this demographic and hosting health education content specific to their needs.
+- Leveraging on high-performing regions to maximize returns: Inventory, staffing, and logistics must be prioritized to support these regions, while also using insights from these top-performing regions and tailoring them to be applied in lower-performing regions.
+- Monitoring and Adapting to Country-Specific Trends: Using dynamic dashboards for monthly performance tracking, shifts, and adapting marketing and supply chain strategies to regional seasonality.
+- Optimize Top-5 performing Drugs: Investing in increased availability and targeted advertising for top drugs while also being cautious to prevent overdependence on just these few stock-keeping units.
+- Addressing Underperforming Bottom-5 Drugs: Consider discounting, testing price elasticity, and evaluating product/distribution efficiency.
+- Leveraging Revenue-Profit Correlation: Ensuring promotional efforts align with profit-positive products and regions while validating profitability regularly.
 
+## Conclusion
+NovaMed Solutions' 2023 year in review has shown promising performance; however, there remain some core business issues that, if not addressed, can have a long-term negative effect on the business. Together with the above recommendation, the addressed challenges will provide a comprehensive way forward for NovaMed Solutions for improved and sustainable performance in the long run.
