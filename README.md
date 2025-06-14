@@ -16,3 +16,8 @@ NovaMed Solutions is a leading pharmaceutical distributor in the healthcare sect
 - Displaying revenue breakdown by country and customer type.
 - Providing insights into purchasing trends based on demographic segments.
   
+## Process
+- Used Power Query editor to check data integrity, applied appropriate data types, and sorted the needed columns.
+- Used M Language for product categorisation and distribution into new columns.
+- Used DAX calculated column and measure to calculate total quantity sold, revenue, transaction weekday, and average revenue.
+- Built visualisation and implemented slicers for dashboard interaction.
