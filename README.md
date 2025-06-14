@@ -18,6 +18,6 @@ NovaMed Solutions is a leading pharmaceutical distributor in the healthcare sect
   
 ## Process
 - Used Power Query editor to check data integrity, applied appropriate data types, and sorted the needed columns.
-- Used M Language for product categorisation and distribution into new columns.
-- Used DAX calculated column and measure to calculate total quantity sold, revenue, transaction weekday, and average revenue.
+- Used M Language for concatenating columns to create a new column.
+- Used DAX calculated column and measure to add needed columns and create appropriate KPIs
 - Built visualisation and implemented slicers for dashboard interaction.
